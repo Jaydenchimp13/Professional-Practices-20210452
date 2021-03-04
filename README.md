@@ -6,7 +6,7 @@ During the development of many different IT systems including but not limited to
 I have compiled 5 of the principles stated in the policy with an in depth explanation of how to comply with these principals and the direct effects of these principals so that during the creation of your system you can comply with the laws in place and use them as a Checklist
 
 **Purpose of collection of personal information:**
-
+When making a system, it's important that you are transparent in your uses of a users personal information and that the purpose of collection is ethical and relevant in nature. T
 
 **Storage and security of personal information:**
 
@@ -18,6 +18,8 @@ I have compiled 5 of the principles stated in the policy with an in depth explan
 
 
 **Limits on disclosure of personal information:**
+
+
 
 **Sources:**
 
