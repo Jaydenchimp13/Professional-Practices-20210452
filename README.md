@@ -11,7 +11,7 @@ When making a system, it's important that you are transparent in your uses of a 
 
 #### **Why do we need to collect people's personal data?**
 
-Often data is collected for things beneficial to the user of your system or ethical use to help maintain your system. Examples of this include targeted avertisment via [cookies](https://www.allaboutcookies.org/) stored in your browser
+Often data is collected for things beneficial to the user of your system or ethical use to help maintain your system. Examples of this include targeted avertisment via [cookies](https://www.allaboutcookies.org/) stored in your browser, 
 
 
 #### **Storage and security of personal information:**
