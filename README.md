@@ -5,4 +5,3 @@
 
 ### I have compiled 5 of the principles stated in the policy with an in depth explanation of how to comply with these principals and the direct effects of these principals so that during the creation of your system you can comply with the laws in place and use them as a Checklist
 
--# penis.
