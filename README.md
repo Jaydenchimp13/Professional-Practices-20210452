@@ -7,12 +7,17 @@ I have compiled 5 of the principles stated in the policy with an in depth explan
 
 **Purpose of collection of personal information:**
 
+
 **Storage and security of personal information:**
 
-**Correction of personal information**
 
-**Limits on use of personal information**
+**Correction of personal information:**
 
-**Limits on disclosure of personal information**
+
+**Limits on use of personal information:**
+
+
+**Limits on disclosure of personal information:**
+
 
 this is a test 
