@@ -21,6 +21,5 @@ I have compiled 5 of the principles stated in the policy with an in depth explan
 
 **Sources:**
 Documents provided by Whitecliffe
-[NZ's 2020 Privacy Act](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html)
 
-this is a test 
+[NZ's 2020 Privacy Act](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html)
