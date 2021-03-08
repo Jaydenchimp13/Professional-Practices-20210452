@@ -25,19 +25,20 @@ When making a system, it's important that you are transparent in your uses of a 
 
 Often data is collected for things beneficial to the user of your system or ethical use to help maintain your system. Examples of this include targeted avertisment via [cookies](https://www.allaboutcookies.org/) stored in your browser, storage of personal information for electronic purchases (like credit cards), or your interactions with the system. This is generally to make improvements to the system by finding mistakes in your experience (your interactions) and having the funding to improve the experience in the future (by using ads), or for the users benefit should they use the system again (like storing card information at checkout)
 
+#### **how do we ensure the users are comfortable with the use of their data?**
 
-#### **How do I comply with this policy?**
+If you need to collect personal 
 
-#### **Storage and security of personal information:**
-
-
-#### **Correction of personal information:**
+### **Storage and security of personal information:**
 
 
-#### **Limits on use of personal information:**
+### **Correction of personal information:**
 
 
-#### **Limits on disclosure of personal information:**
+### **Limits on use of personal information:**
+
+
+### **Limits on disclosure of personal information:**
 
 
 
