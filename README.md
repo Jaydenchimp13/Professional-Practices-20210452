@@ -10,7 +10,10 @@ I have compiled 5 of the principles stated in the policy with an in depth explan
 
 I have successfully complied with:
 - [x] Pupose of collection
-
+- [x] Storage and security of personal information
+- [ ] Correction of personal information
+- [ ] Limits on use of personal information
+- [ ] Limits on disclosure of personal information
 
 
 
@@ -20,10 +23,10 @@ When making a system, it's important that you are transparent in your uses of a 
 
 #### **Why do we need to collect people's personal data?**
 
-Often data is collected for things beneficial to the user of your system or ethical use to help maintain your system. Examples of this include targeted avertisment via [cookies](https://www.allaboutcookies.org/) stored in your browser, storage of personal information for electronic purchases (like credit cards), or your interactions with the system. This is generally to make improvements to the system by finding mistakes in your experience and having the funding to improve the experience in the future, or for the users benefit should they use the system again
+Often data is collected for things beneficial to the user of your system or ethical use to help maintain your system. Examples of this include targeted avertisment via [cookies](https://www.allaboutcookies.org/) stored in your browser, storage of personal information for electronic purchases (like credit cards), or your interactions with the system. This is generally to make improvements to the system by finding mistakes in your experience (your interactions) and having the funding to improve the experience in the future (by using ads), or for the users benefit should they use the system again (like storing card information at checkout)
 
 
-#### **
+#### **How do I comply with this 
 
 #### **Storage and security of personal information:**
 
