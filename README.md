@@ -9,8 +9,8 @@ During the development of many different IT systems including but not limited to
 I have compiled 5 of the principles stated in the policy with an in depth explanation of how to comply with these principals and the direct effects of these principals so that during the creation of your system you can comply with the laws in place and use them as a Checklist
 
 I have successfully complied with:
-- [x] Pupose of collection
-- [x] Storage and security of personal information
+- [ ] Pupose of collection
+- [ ] Storage and security of personal information
 - [ ] Correction of personal information
 - [ ] Limits on use of personal information
 - [ ] Limits on disclosure of personal information
