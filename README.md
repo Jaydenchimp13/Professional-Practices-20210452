@@ -31,6 +31,13 @@ If you need to collect personal data from a user of your system, you need to mak
 
 ## **Storage and security of personal information:**
 
+If you, as the developer, intend to store people's personal information, you must ensure that you have the necessary safeguards in place to avoid the loss, misuse, access to and disclosure of your clients personal information. If you are required to give this information to a third party, it's your responsibility to ensure that the information remains safe from unorthorized use or disclosure (within reason). 
+
+### **How do we store data safely?**
+
+
+### **
+
 
 ## **Correction of personal information:**
 
