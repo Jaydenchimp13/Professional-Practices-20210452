@@ -8,6 +8,11 @@ During the development of many different IT systems including but not limited to
 
 I have compiled 5 of the principles stated in the policy with an in depth explanation of how to comply with these principals and the direct effects of these principals so that during the creation of your system you can comply with the laws in place and use them as a Checklist
 
+- [ ]
+
+
+
+
 ### **Purpose of collection of personal information:**
 
 When making a system, it's important that you are transparent in your uses of a users personal information and that the purpose of collection is ethical and relevant in nature. As a developer, you should aim to harvest as little of a persons personal data as possible for a multitude of reasons (data leaks, unsafe use of data on purpose or on accident/human error, ETC)
