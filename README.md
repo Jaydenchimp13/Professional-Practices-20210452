@@ -25,7 +25,7 @@ When making a system, it's important that you are transparent in your uses of a 
 
 Often data is collected for things beneficial to the user of your system or ethical use to help maintain your system. Examples of this include targeted avertisment via [cookies](https://www.allaboutcookies.org/) stored in your browser, storage of personal information for electronic purchases (like credit cards), or your interactions with the system. This is generally to make improvements to the system by finding mistakes in your experience (your interactions) and having the funding to improve the experience in the future (by using ads), or for the users benefit should they use the system again (like storing card information at checkout)
 
-### **how do we ensure the users are comfortable with the use of their data?**
+### **How do we ensure the users are comfortable with the use of their data?**
 
 If you need to collect personal data from a user of your system, you need to make sure you have informative consent to do so from the owner of the data you are collecting (which is presumably the user or the parent/guardian of the user) so that the user knows where the information is going, what it's used for and are still okay with you using their data. Generally this is done by creating a written agreement that, prior to the use of your system, the user reads over and agrees to. To reiterate, a user generally wont be comfortable with this agreement unless your use of their data is ethical and relevant to the system you have created (or they didnt read what they signed), so try to phrase your agreement as clearly and honestly you can in a concise manner  
 
