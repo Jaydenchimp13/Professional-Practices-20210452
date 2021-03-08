@@ -17,28 +17,28 @@ I have successfully complied with:
 
 
 
-### **Purpose of collection of personal information:**
+## **Purpose of collection of personal information:**
 
 When making a system, it's important that you are transparent in your uses of a users personal information and that the purpose of collection is ethical and relevant in nature. As a developer, you should aim to harvest as little of a persons personal data as possible for a multitude of reasons (data leaks, unsafe use of data on purpose or on accident/human error, ETC)
 
-#### **Why do we need to collect people's personal data?**
+### **Why do we need to collect people's personal data?**
 
 Often data is collected for things beneficial to the user of your system or ethical use to help maintain your system. Examples of this include targeted avertisment via [cookies](https://www.allaboutcookies.org/) stored in your browser, storage of personal information for electronic purchases (like credit cards), or your interactions with the system. This is generally to make improvements to the system by finding mistakes in your experience (your interactions) and having the funding to improve the experience in the future (by using ads), or for the users benefit should they use the system again (like storing card information at checkout)
 
-#### **how do we ensure the users are comfortable with the use of their data?**
+### **how do we ensure the users are comfortable with the use of their data?**
 
 If you need to collect personal 
 
-### **Storage and security of personal information:**
+## **Storage and security of personal information:**
 
 
-### **Correction of personal information:**
+## **Correction of personal information:**
 
 
-### **Limits on use of personal information:**
+## **Limits on use of personal information:**
 
 
-### **Limits on disclosure of personal information:**
+## **Limits on disclosure of personal information:**
 
 
 
