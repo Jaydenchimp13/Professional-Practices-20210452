@@ -35,6 +35,12 @@ If you, as the developer, intend to store people's personal information, you mus
 
 ### **How do we store data safely?**
 
+It depends on what the data is used for, so I compiled a small checklist for pysical storage of the data and software that can help defend against people trying to gain access
+
+- [ ] Physical storage is in a private location that only authorised people can get to. This means some kind of lock on the room/building it's in. If it's a central hub/large storage unit, a lock on the case would also be advisable
+
+
+- [ ] Make sure the personal data you  
 
 ### **
 
