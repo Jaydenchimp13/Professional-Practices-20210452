@@ -70,13 +70,13 @@ Personal information that is obtained in connection with one specific purpose is
 
 in a non-urgent situation, contacting the client with whatever means you have (phone, email, ETC) and waiting for a positive response before taking action is the best way to go about using their info while adhering to the law. However, in an urgent situation, use the information you have ASAP and worry about the possible repercussions later. If your reason is truly valid, you'll have nothing to worry about.
 
-## **How do I keep the users identity anonymous?**
+### **How do I keep the users identity anonymous?**
 
 As long as the client's face, name, location, workplace and any other things that could lead you to find the client ar  redacted from the copy of info you hand out, then you have done a successful job
 
 ## **Limits on disclosure of personal information:**
 
-
+This basically refers back to the "ethical and relevant" manner of the collection, but for the distribution of the info. Any third parties involved should only be given personal information if the party will use the information in a way that is ethical, relevant and beneficial to the client OR the personal information is availible to public access (EG: a criminal record). The only exception is the same as before, if there is an emergenct 
 
 
 **Sources:**
