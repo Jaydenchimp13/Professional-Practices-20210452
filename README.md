@@ -38,9 +38,12 @@ If you, as the developer, intend to store people's personal information, you mus
 It depends on what the data is used for, so I compiled a small checklist for pysical storage of the data and software that can help defend against people trying to gain access
 
 - [ ] Physical storage is in a private location that only authorised people can get to. This means some kind of lock on the room/building it's in. If it's a central hub/large storage unit, a lock on the case would also be advisable
+- [ ] be careful of people trying to pose as the owner of the data/somoene who has access to the data
 
 
-- [ ] Make sure the personal data you  
+- [ ] Make sure the personal data you are storing is encrypted so that decyphering the information becomes a very arduous/borderling impossible task without the means to decrypt them properly (which only you should have)
+- [ ] Have appropriate software installed such as antivirus and other software that protect against malicious programs 
+- [ ] If the storage is apart of a network, make sure the connected devices either don't have access and/or are also secure as to avoid creating a "weak link"
 
 ### **
 
