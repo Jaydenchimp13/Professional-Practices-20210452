@@ -58,10 +58,19 @@ Holders of personal information are required to update the information they hold
 
 If, for whatever reason, you are unable to edit the information (personal reasons included), then it's up to you to make sure that everyone else that comes in contact with the information, including third parties, knows that the information is no longer up to date. You can do this by attatching a "statement of correction" made by the client onto their personal information so that it can be clearly seen by anyone who has access to this information
 
-### **How do we ensure the user
+### **How do we ensure the users personal information is consistently up to date?**
+
+Provided they have access to a virtual system to do so (such as a website), the most effective way of doing this is to use their personal information to keep up to date with their personal information (IE: knowing their location and using it to guess if they moved or something) however this is generally considered a shady practice and sometimes isnt doable. Instead, you can send an annual reminder for them to update their information where applicable or ask them to redo their personal information on your systems website
 
 ## **Limits on use of personal information:**
 
+Personal information that is obtained in connection with one specific purpose is to only be used for this one specific purpose (as per the agreement). If however, you believe that it's reasonable to use the information in a way the client possibly didn't intend, you can still use the information if the client stays anonymous, if the client consents to this new use of the informantion, if the information is required for proof regarding the breaking of an important law or if the information helps prevent or lessen the impact of a serious threat.
+
+### **How do I inform the client of a change in the usage?**
+
+in a non-urgent situation, contacting the client with whatever means you have (phone, email, ETC) and waiting for a positive response before taking action is the best way to go about using their info while adhering to the law. However, in an urgent situation, use the information you have ASAP and worry about the possible repercussions later. If your reason is truly valid, you'll have nothing to worry about.
+
+## **How do we ensure the users 
 
 ## **Limits on disclosure of personal information:**
 
@@ -72,3 +81,4 @@ If, for whatever reason, you are unable to edit the information (personal reason
 Documents provided by Whitecliffe
 
 [NZ's 2020 Privacy Act](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html)
+
