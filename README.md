@@ -76,7 +76,13 @@ As long as the client's face, name, location, workplace and any other things tha
 
 ## **Limits on disclosure of personal information:**
 
-This basically refers back to the "ethical and relevant" manner of the collection, but for the distribution of the info. Any third parties involved should only be given personal information if the party will use the information in a way that is ethical, relevant and beneficial to the client OR the personal information is availible to public access (EG: a criminal record). The only exception is the same as before, if there is an emergenct 
+This basically refers back to the "ethical and relevant" manner of the collection, but for the distribution of the info. Any third parties involved should only be given personal information if the party will use the information in a way that is ethical, relevant and beneficial to the client OR the personal information is availible to public access (EG: a criminal record). The only exceptions are the same as before. If you can keep the client completely anonymous or if there is an emergency/serious threat, information can be freely disclosed and consequences will be given according to the situation.
+
+### **How do I know if a company I plan to share with is relevant/ethical**
+
+For relevance, the company needs to be doing something for you with the information. Examples include things like creating an advertisment or using the information to create a data sheet that can aid in your business/system. For ethics, make sure you research the party you'll be collaborating with thoroughly, so that you can trust them
+ 
+### ****
 
 
 **Sources:**
