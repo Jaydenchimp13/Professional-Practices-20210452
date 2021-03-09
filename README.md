@@ -45,11 +45,20 @@ It depends on what the data is used for, so I compiled a small checklist for pys
 - [ ] Have appropriate software installed such as antivirus and other software that protect against malicious programs 
 - [ ] If the storage is apart of a network, make sure the connected devices either don't have access and/or are also secure as to avoid creating a "weak link"
 
-### **
+### **How can I trust a third party?**
+
+In the case you need to give personal information to a third party for whatever reason, make sure your reason is justified under the first clause of the policy, that it's relevant and ethical. To stay in line with that, make sure the third party is trusted and owns the same amount of responsibility for the data that you do. Male sure that your agreement with the user is still upheld and that the third party can also uphold that agreement. Lastly, make sure you have physical proof of their commitment to safety so that in the unfortunate scenario where they misuse the data, it's "not your head" for lack of a better phrasing. 
 
 
 ## **Correction of personal information:**
 
+Holders of personal information are required to update the information they hold at the request of the client. This means that if something about the client and thus the clients info changes (EG: they move houses, switch banks and have a different credit card number, new car and thus number plate, different email, ETC) you are legally obliged to change update the info. 
+
+### **What if I am unable to correct their personal information?**
+
+If, for whatever reason, you are unable to edit the information (personal reasons included), then it's up to you to make sure that everyone else that comes in contact with the information, including third parties, knows that the information is no longer up to date. You can do this by attatching a "statement of correction" made by the client onto their personal information so that it can be clearly seen by anyone who has access to this information
+
+### **How do we ensure the user
 
 ## **Limits on use of personal information:**
 
