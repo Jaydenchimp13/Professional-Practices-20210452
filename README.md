@@ -70,9 +70,12 @@ Personal information that is obtained in connection with one specific purpose is
 
 in a non-urgent situation, contacting the client with whatever means you have (phone, email, ETC) and waiting for a positive response before taking action is the best way to go about using their info while adhering to the law. However, in an urgent situation, use the information you have ASAP and worry about the possible repercussions later. If your reason is truly valid, you'll have nothing to worry about.
 
-## **How do we ensure the users 
+## **How do I keep the users identity anonymous?**
+
+As long as the client's face, name, location, workplace and any other things that could lead you to find the client ar  redacted from the copy of info you hand out, then you have done a successful job
 
 ## **Limits on disclosure of personal information:**
+
 
 
 
