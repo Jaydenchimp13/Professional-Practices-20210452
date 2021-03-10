@@ -89,5 +89,7 @@ For relevance, the company needs to be doing something for you with the informat
 
 Documents provided by Whitecliffe
 
+(cookies is referanced in the link)
+
 [NZ's 2020 Privacy Act](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html)
 
