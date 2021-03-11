@@ -80,8 +80,27 @@ This basically refers back to the "ethical and relevant" manner of the collectio
 
 For relevance, the company needs to be doing something for you with the information. Examples include things like creating an advertisment or using the information to create a data sheet that can aid in your business/system. For ethics, make sure you research the party you'll be collaborating with thoroughly, so that you can trust them
  
-### ****
+### **Is the client limited on how they can disclose their personal information?**
 
+For the most part, no. I believe if the client leaves their personal information on a message board or something it's considered public information at that point and people can talk about it however they like. However there are also legal things in place to help someone in that unfortuante situation
+
+# Trade Me Privacy Policy:
+
+[Trade Me](https://www.trademe.co.nz/) is a large platform for selling goods, services and job positions to people, mostly for monetary gain. It allows you to browse a large catalogue of varying items sold second hand by normal people, unused by big coorperations, and everything in between. For ordinary shoppers, it stores your online card information (eftpos, credit, ETC), address, postal code, city, and other shipping information to make checkout easier. Trade me upholds the principles explore above at all times.
+
+## **Purpose of collection of personal information:**
+
+
+## **Storage and security of personal information:**
+
+
+## **Correction of personal information:**
+
+
+## **Limits on use of personal information:**
+
+
+## **Limits on disclosure of personal information:**
 
 **Sources:**
 
