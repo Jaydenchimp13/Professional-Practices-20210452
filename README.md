@@ -90,8 +90,10 @@ For the most part, no. I believe if the client leaves their personal information
 
 ## **Purpose of collection of personal information:**
 
+Trade Me's purpose of collection for your information falls under the title of "ethical, relevant and transparent" and thus upholds this clause. In their agreement that you read upon joining they state what the information is for and how it's used, thus being transparent with you. The shipping information stored on the website is a toggleable feature, meaning if you're truly concerned about it, you can opt out of the feature and be worry free. However if you dont opt out, your information is used next time at checkout for the users ease, making multiple purcahses quick and easy to save time (making it relevant)
 
 ## **Storage and security of personal information:**
+
 
 
 ## **Correction of personal information:**
