@@ -94,7 +94,7 @@ Trade Me's purpose of collection for your information falls under the title of "
 
 ## **Storage and security of personal information:**
 
-
+according to [this article](https://www.stuff.co.nz/business/124268534/more-than-1000-trade-me-accounts-swapped-briefly-exposing-personal-information#:~:text=Pullar%2DStrecker%2FStuff-,On%20Friday%20last%20week%2C%20Trade%20Me%20notified%20its%20users%20that,notified%20of%20this%20privacy%20breach.), Trade Me's recent track record in regards to this law hasn't exactly been smooth sailing, but for a company as large as theirs it still works. Trade me  
 
 ## **Correction of personal information:**
 
