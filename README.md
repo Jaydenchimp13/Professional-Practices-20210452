@@ -86,21 +86,23 @@ For the most part, no. I believe if the client leaves their personal information
 
 # Trade Me Privacy Policy:
 
-[Trade Me](https://www.trademe.co.nz/) is a large platform for selling goods, services and job positions to people, mostly for monetary gain. It allows you to browse a large catalogue of varying items sold second hand by normal people, unused by big coorperations, and everything in between. For ordinary shoppers, it stores your online card information (eftpos, credit, ETC), address, postal code, city, and other shipping information to make checkout easier. Trade me upholds the principles explore above at all times.
+[Trade Me](https://www.trademe.co.nz/) is a large platform for selling goods, services and job positions to people, mostly for monetary gain. It allows you to browse a large catalogue of varying items sold second hand by normal people, unused by big coorperations, and everything in between. For ordinary shoppers, it stores your online card information (eftpos, credit, ETC), address, postal code, city, and other shipping information to make checkout easier. They also take information for personalized advertisments (EG: Browsing Data) Trade me upholds the principles explore above at all times.
 
 ## **Purpose of collection of personal information:**
 
-Trade Me's purpose of collection for your information falls under the title of "ethical, relevant and transparent" and thus upholds this clause. In their agreement that you read upon joining they state what the information is for and how it's used, thus being transparent with you. The shipping information stored on the website is a toggleable feature, meaning if you're truly concerned about it, you can opt out of the feature and be worry free. However if you dont opt out, your information is used next time at checkout for the users ease, making multiple purcahses quick and easy to save time (making it relevant)
+Trade Me's purpose of collection for your information falls under the title of "ethical, relevant and transparent" and thus upholds this clause. In their agreement that you read upon joining they state what the information is for and how it's used, thus being transparent with you. The shipping information stored on the website is a toggleable feature, meaning if you're truly concerned about it, you can opt out of the feature and be worry free. However if you dont opt out, your information is used next time at checkout for the users ease, making multiple purcahses quick and easy to save time (making it relevant). The perosnal data for ads is to help male Trade Me more profitable and keep the site afloat no matter what (this means it's relevant) 
 
 ## **Storage and security of personal information:**
 
-according to [this article](https://www.stuff.co.nz/business/124268534/more-than-1000-trade-me-accounts-swapped-briefly-exposing-personal-information#:~:text=Pullar%2DStrecker%2FStuff-,On%20Friday%20last%20week%2C%20Trade%20Me%20notified%20its%20users%20that,notified%20of%20this%20privacy%20breach.), Trade Me's recent track record in regards to this law hasn't exactly been smooth sailing, but for a company as large as theirs it still works. Trade me  
+according to [this article](https://www.stuff.co.nz/business/124268534/more-than-1000-trade-me-accounts-swapped-briefly-exposing-personal-information#:~:text=Pullar%2DStrecker%2FStuff-,On%20Friday%20last%20week%2C%20Trade%20Me%20notified%20its%20users%20that,notified%20of%20this%20privacy%20breach.), Trade Me's recent track record in regards to this law hasn't exactly been smooth sailing, but for a company as large as theirs it still works. Trade me uses a tonne of really good digital safeguards to protect your personal information from things such as cyber-attacks by employing multiple programs against it and encrypting all the stored data. They're physicaly stored (as far as I know) in a massive database somewhere in the world, so physically, it's also very tough to access. The third parties that pay for advertisiong space don't get access to the information for targeting advertisments, instead, they pay for targeted adspace on Trade Me and Trade Me uses the info they have to target the advertisments, so that Trade Me is responisble for all the data in their possesion    
 
 ## **Correction of personal information:**
 
+In regards to shipping info, Trade Me reaffirms that your info is still up to date every single time you purchase something so that the process for that is SUPER easy for the client. It's literally "oh, you want to buy something? cool, make sure the info you saved last time is up to date, if not, update it and we'll send you your stuff correctly". Targeted Advertising is generally gained by the cookies (see sources) in your computer, and thus isnt something you can change unless you just go to a bunch of random websites to change it or opt out of cookies in your browser.
 
 ## **Limits on use of personal information:**
 
+Trade me does not 
 
 ## **Limits on disclosure of personal information:**
 
